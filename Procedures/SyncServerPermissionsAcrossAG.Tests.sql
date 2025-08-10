@@ -2,7 +2,7 @@
 
 This script contains tests for SyncServerPermissionsAcrossAG,
 defined here:
-	
+https://github.com/KutlanKocaman/SqlServerTools/blob/main/Procedures/SyncServerPermissionsAcrossAG.sql
 
 Before running this script, make sure to:
 1. Run the script above to create the SyncServerPermissionsAcrossAG procedure.

@@ -15,7 +15,7 @@ The procedure relies on the SQL Server Browser to connect to instances using por
 The procedure can't be used within a transaction because it uses sp_addlinkedserver.
 
 Tests for this procedure are here:
-	
+https://github.com/KutlanKocaman/SqlServerTools/blob/main/Procedures/SyncServerPermissionsAcrossAG.Tests.sql
 
 */
 

@@ -2,7 +2,7 @@
 
 This script contains tests for the procedure SyncCertificateLoginsAcrossAG,
 defined here:
-	
+https://github.com/KutlanKocaman/SqlServerTools/blob/main/Procedures/SyncCertificateLoginsAcrossAG.sql
 
 Before running this script, make sure to:
 1. Run the script above to create the SyncCertificateLoginsAcrossAG procedure.

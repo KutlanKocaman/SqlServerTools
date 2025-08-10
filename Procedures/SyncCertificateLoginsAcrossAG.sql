@@ -17,7 +17,7 @@ then both the certificate and the login are dropped and re-created on the target
 This procedure can't be used within a transaction because it uses sp_addlinkedserver.
 
 Tests for this procedure are here:
-	
+https://github.com/KutlanKocaman/SqlServerTools/blob/main/Procedures/SyncCertificateLoginsAcrossAG.Tests.sql
 
 */
 

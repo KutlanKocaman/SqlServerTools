@@ -23,7 +23,7 @@ it drops all existing certificates, certificate users, and certificate logins
 matching this naming schema in all databases, then it re-creates only the ones in the @GrantList.
 
 Tests for this procedure are here:
-	
+https://github.com/KutlanKocaman/SqlServerTools/blob/main/Procedures/GrantPermissionsToProcedure.Tests.sql
 
 */
 
